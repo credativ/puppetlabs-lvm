@@ -1,3 +1,10 @@
+2014-09-18 - Version 0.3.3+cred1
+
+Summary:
+
+This release integrates mkfs create options patch, from
+Mickael Canevet (https://github.com/mcanevet).
+
 2014-09-16 - Version 0.3.3
 
 Summary:
